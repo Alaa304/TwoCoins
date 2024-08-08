@@ -1,0 +1,14 @@
+E:\C#\alaa\TwoCoins\TwoCoins\bin\Debug\net8.0\TwoCoins.exe
+E:\C#\alaa\TwoCoins\TwoCoins\bin\Debug\net8.0\TwoCoins.deps.json
+E:\C#\alaa\TwoCoins\TwoCoins\bin\Debug\net8.0\TwoCoins.runtimeconfig.json
+E:\C#\alaa\TwoCoins\TwoCoins\bin\Debug\net8.0\TwoCoins.dll
+E:\C#\alaa\TwoCoins\TwoCoins\bin\Debug\net8.0\TwoCoins.pdb
+E:\C#\alaa\TwoCoins\TwoCoins\obj\Debug\net8.0\TwoCoins.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\alaa\TwoCoins\TwoCoins\obj\Debug\net8.0\TwoCoins.AssemblyInfoInputs.cache
+E:\C#\alaa\TwoCoins\TwoCoins\obj\Debug\net8.0\TwoCoins.AssemblyInfo.cs
+E:\C#\alaa\TwoCoins\TwoCoins\obj\Debug\net8.0\TwoCoins.csproj.CoreCompileInputs.cache
+E:\C#\alaa\TwoCoins\TwoCoins\obj\Debug\net8.0\TwoCoins.dll
+E:\C#\alaa\TwoCoins\TwoCoins\obj\Debug\net8.0\refint\TwoCoins.dll
+E:\C#\alaa\TwoCoins\TwoCoins\obj\Debug\net8.0\TwoCoins.pdb
+E:\C#\alaa\TwoCoins\TwoCoins\obj\Debug\net8.0\TwoCoins.genruntimeconfig.cache
+E:\C#\alaa\TwoCoins\TwoCoins\obj\Debug\net8.0\ref\TwoCoins.dll

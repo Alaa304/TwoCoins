@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoCoins", "TwoCoins\TwoCoins.csproj", "{975CF30E-FACA-406A-8BCD-2F09D3D20310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{975CF30E-FACA-406A-8BCD-2F09D3D20310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975CF30E-FACA-406A-8BCD-2F09D3D20310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975CF30E-FACA-406A-8BCD-2F09D3D20310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975CF30E-FACA-406A-8BCD-2F09D3D20310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91BEF362-F125-4BD1-83C8-8CB96D8A00BA}
+	EndGlobalSection
+EndGlobal
